@@ -1,0 +1,28 @@
+.column {
+    float: left;
+    width: 250px;
+    height: 230px;
+    border-radius: 50px;
+    border: 2px solid black;
+    padding: 25px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+    color: black
+}
+
+#poem1, #button1{
+    background-color: rgb(202, 154, 196);
+}
+#poem2, #button2{
+    background-color: rgb(224, 161, 176);
+}
+#poem3, #button3{
+    background-color: rgb(131, 203, 206);
+}
+p{
+    color:black;
+}
